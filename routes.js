@@ -41,4 +41,4 @@ const requestHandler = (req, res) => {
 //     someText: 'Some hard coded text'
 // };
 exports.handler = requestHandler;
-exports.someText = 'Some hard code';
+exports.someText = 'Some very hard code';

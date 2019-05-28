@@ -13,7 +13,7 @@
     "url": "git+https://github.com/superwo/node-course.git"
   },
   "nodemonConfig": {        
-    "ignore": ["data/products.json"]  
+    "ignore": ["data/products.json", "data/cart.json"]  
   },
   "author": "Radu",
   "license": "ISC",
